@@ -1,6 +1,6 @@
 {
-  "name": "Ionic",
-  "short_name": "Ionic",
+  "name": "TCC App",
+  "short_name": "TCC App",
   "start_url": "index.html",
   "display": "standalone",
   "icons": [{
